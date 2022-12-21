@@ -72,7 +72,7 @@ class _IntroPageState extends State<IntroPage> {
                     borderRadius: const BorderRadius.only(
                       topLeft: Radius.circular(205),
                     ),
-                    color: Colors.deepPurple[200],
+                    color: Colors.deepPurple[400],
                   ),
                 ),
               ),
